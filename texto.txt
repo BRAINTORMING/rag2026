@@ -1,467 +1,460 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 10 June 2025\
-Simple Iron Ion Enables Photocatalytic Hydrogen\
-Evolution from Methanol\
-Masaya Sakurai\
-1\
-, Yudai Kawasaki1\
-, Takahiro Matsumoto\
-1\
-1. Kyushu University\
-Abstract\
-We report the discovery of a remarkably simple homogeneous catalyst \'96 iron (Fe) ion\
-\'96that conducts hydrogen gas (H2) evolution from methanol under ultraviolet (UV) light\
-irradiation. Unlike previously reported homogeneous organometallic catalysts for methanol\
-dehydrogenation, our system functions without synthetic ligands and is conceptually distinct\
-from general heterogeneous and photoredox catalysts. The Fe ion catalysis achieved a turnover\
-frequency (TOF) of 149 h\'961 and a production rate of 9.21 \'d7 102 mmol gcat\'961 h\'961 for methanol\
-dehydrogenation with input of UV light (250\'96385 nm, 30 mW). These values place the Fe\
-ion catalyst within the upper performance range of previously reported systems \'96 including\
-homogeneous, heterogeneous, and photoredox catalysts comprising both precious and nonprecious metals. The Fe catalytic system is not limited to lower alcohols; it can also be\
-applied to biomass and its derivatives. This simple and effective catalytic system, discovered\
-serendipitously, has no documented analogs, to the best of our knowledge.\
-Keywords\
-hydrogen production, methanol, iron, photo\
-Posted on 10 June 2025 \'97 CC-BY-NC-ND 4.0 \'97 This is a preprint and has not been peer reviewed. Data may be preliminary. \'97\
-https://doi.org/10.26434/chemrxiv-2025-zdjxg\
- 1 \
-Simple Iron Ion Enables Photocatalytic Hydrogen Evolution \
-from Methanol \
- \
-Masaya Sakurai,1,\'86 Yudai Kawasaki,1,\'86 Takahiro Matsumoto1,2,* \
- \
-1\
-Department of Chemistry and Biochemistry, Graduate School of Engineering, Kyushu \
-University, 744 Moto-oka, Nishi-ku, Fukuoka 819-0395, Japan \
-2\
-International Institute for Carbon-Neutral Energy Research (WPI-I2CNER), Kyushu \
-University, 744 Moto-oka, Nishi-ku, Fukuoka 819-0395, Japan \
-\'86\
-Equal contribution. \
- \
-E-mail: matsumoto.takahiro.236@m.kyushu-u.ac.jp \
- \
-We report the discovery of a remarkably simple homogeneous catalyst \'96 iron (Fe) ion \'96\
-that conducts hydrogen gas (H2) evolution from methanol under ultraviolet (UV) light \
-irradiation. Unlike previously reported homogeneous organometallic catalysts for \
-methanol dehydrogenation, our system functions without synthetic ligands and is \
-conceptually distinct from general heterogeneous and photoredox catalysts. The Fe ion \
-catalysis achieved a turnover frequency (TOF) of 149 h\'961\
- and a production rate of 9.21 \'d7 \
-105\
- \'b5mol gcat\'961\
- h\'961\
- for methanol dehydrogenation with input of UV light (250\'96385 nm, \
-30 mW). These values place the Fe ion catalyst within the upper performance range of \
-previously reported systems \'96 including homogeneous, heterogeneous, and photoredox \
-catalysts comprising both precious and non-precious metals. The Fe catalytic system is \
-not limited to lower alcohols; it can also be applied to biomass and its derivatives. This \
-simple and effective catalytic system, discovered serendipitously, has no documented \
-analogs, to the best of our knowledge. \
- \
- \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 2 \
-H2 production from alcohols represents a pivotal reaction for achieving carbon-neutral \
-and sustainable societies, as both H2 and alcohols exhibit strong synergy with renewable \
-energy and resources (1\'967). Furthermore, the interrelationship between H2 and alcohols \
-is particularly important in hydrogen carrier technologies. Notably, methanol, with a \
-hydrogen content of 12.5 wt%, is widely regarded as a promising liquid hydrogen carrier. \
-Against this backdrop, the dehydrogenation of methanol as well as other alcohols has \
-attracted considerable attention. Recent research has focused particularly on the methanol \
-dehydrogenation using homogeneous catalysts (8\'9625), heterogeneous catalysts (26\'9628), \
-and photocatalysts (29\'9634). The homogeneous catalysis employed synthetic \
-organometallic complexes based on noble metals (rhodium, iridium, and ruthenium) (8\'96\
-21) and non-noble metals (Fe and manganese (Mn)) (22\'9625). As substantially different \
-from previous organometallic reactions, the reaction we discovered allows H2 to be \
-generated from alcohols using an exceptionally simple catalyst, Fe ion, by input of light \
-energy (Scheme 1). We stumbled upon this reaction not by design, but through a stroke \
-of serendipity. This reaction was found during a control experiment as part of our \
-investigation into H\uc0\u8322  evolution from methanol using organometallic Fe complexes. The \
-input of light energy should be required to drive the thermodynamically endothermic \
-nature of alcohol dehydrogenation. For instance, as the redox potential of methanol \
-(HCHO + 2H+ + 2e\'96\
- \uc0\u8644  CH3OH) is 0.232 V versus normal hydrogen electrode (35), the \
-conversion of methanol to formaldehyde must need external energy. \
- \
-Scheme 1. H2 evolution from alcohols using an FeIII ion as a catalyst under UV light \
-irradiation in this study (R1\
- and R2\
- groups are alkyl group and/or H). \
- \
- \
-Photocatalytic Hydrogen Evolution from Methanol Using an Fe Ion \
-We examined the ultraviolet-visible (UV-vis) spectrum of iron(III) chloride \
-(FeIIICl\uc0\u8323 ) in methanol, as the dehydrogenation reaction necessitated UV light irradiation. \
-The UV-vis spectrum of FeIIICl3 in methanol indicates a strong absorption band at 368 \
-nm (e = 3600 M\'961\
- cm\'961\
-), whose band is blue-shifted to a broad band around 305 nm (e = \
-5100 M\'961\
- cm\'961\
-) on addition of sodium hydroxide (NaOH) (Fig. S1). As described below, \
-NaOH is needed to accelerate the dehydrogenation from methanol. These absorption \
-bands in the UV region should be assigned to ligand-to-metal charge transfer (LMCT) of \
-methanol or methoxide to an FeIII center based on the knowledge of coordination \
-R1 R2\
-OH\
-UV light\
-FeIII ion\
-Alcohol-oxidized\
-product(s) H2 +\
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 3 \
-chemistry. This blue-shift and increase in absorption coefficient observed upon addition \
-of NaOH can be attributed to the stronger FeIII\'96O bond in the methoxide-coordinated FeIII \
-species (FeIII\'96OCH\uc0\u8323  species) compared to that in the methanol-coordinated FeIII species \
-(FeIII\'96O(H)CH\uc0\u8323  species). The LMCT can be used for the excitation of methanol- or \
-methoxide-coordinated FeIII species. This process should induce electron transfer from \
-methanol or methoxide to the FeIII center, likely resulting in the formation of an FeII \
-species in which a methanol radical or methoxide radical might be weakly interacting \
-with the FeII center. This LMCT is considered to be involved in the photocatalytic H\uc0\u8322  \
-evolution from methanol, as UV light is required for this reaction. However, the H2 \
-production mechanism remains to be elucidated due to the lack of prior studies. \
-We indeed examined H2 evolution from methanol catalyzed by FeIIICl3 under UV \
-light irradiation. FeIIICl3 was dissolved in methanol and the resulting solution was \
-exposed to UV light (250\'96385 nm, 10\'9630 mW) in a closed quartz cell capped with a \
-septum. The gas phase was analyzed by gas chromatography (GC) after the photoreaction. \
-As a result, H2 was detected from this remarkably simple system (Fig. S2). Surprisingly, \
-in this system, the H2 evolution occurred even under air, in which the catalytic activity is \
-comparable to that under an N2 atmosphere. While a small amount of H2 evolved without \
-NaOH, the amount of H2 evolved was significantly increased on addition of NaOH into \
-the system. As the concentration of NaOH increased, the turnover number (TON, mol of \
-H2/mol of FeIII ion) of H2 evolution increased. To investigate the effect of NaOH on the \
-photocatalytic reaction, we examined the H2 production reaction under varying \
-concentrations of NaOH and plotted the resulting TON values (Fig. 1A). This plot reveals \
-a saturation curve, analyzed using the steady-state approximation as in the MichaelisMenten kinetics model. Furthermore, the double reciprocal plot displays a linear \
-correlation (Fig. 1B). This type of kinetics indicates that a pre-equilibrium is involved in \
-the reaction. In this case, there should be the pre-equilibrium between the deprotonation \
-of methanol and protonation of methoxide coordinated to the Fe center (Scheme 2). From \
-the intercept and slope of the double reciprocal plot, the equilibrium (K) and rate constants \
-(k) were determined as K = 21 and k = 6.9 \'d7 10\'963\
- s\'961\
-, respectively. \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 4 \
- \
-Fig. 1. Kinetic analysis using the steady-state approximation. (A) TON values \
-depending on concentration of NaOH (0\'96900 mM) in the photo-induced H2 evolution \
-reaction using FeIIICl3 (0.17 mM) in methanol with NaOH (0\'96900 mM) under UV light \
-irradiation (250\'96385 nm, 10 mW) for 3 h. (B) Double reciprocal plot of (A). Solid lines \
-in (A) and (B) are fitted by Michaelis\'96Menten kinetics. Error bars represent the standard \
-deviation (SD) calculated from three measurements. \
- \
-Scheme 2. A possible mechanism predicted from kinetic analysis using the steady-state \
-approximation \
- \
- \
-Investigation of Photocatalytic Reaction Conditions \
-In the case of addition of acids such as sulfuric acid (H2SO4) and acetic acid \
-(CH3COOH), there is no significant effect on H2 evolution reaction (Fig. 2). We also \
-investigated the effect of changing the counteranions, NO3\
-\'96\
- and SO4\
-2\'96\
-, in FeIII salts, and \
-no significant influence on the H2 evolution reaction was observed (Fig. 3). Then, in order \
-to optimize the conditions for the H2 evolution reaction, we varied the concentration of \
-FeIIICl3, the light intensity, and the reaction time (Fig. 4). The reaction tends to proceed \
-more facilely when the concentration of FeIII ion is reduced (Fig. 4A). As is commonly \
-observed in photochemical reactions, increasing the concentration of photocatalysts often \
-leads to a decrease in reactivity. The TON increases with higher UV light intensity (Fig. \
-4B). From the time-dependent TON data, it was observed that the TON increases linearly \
-up to 10\'9615 h, after which the slope tends to decrease (Fig. 4C). This is likely due to the \
-increase in internal pressure caused by the H2 generated under the closed system. Control \
-experiments without FeIII ion or UV light (250\'96385 nm) did not result in the formation of \
-NaOH Na+ + H2O\
-NaOH Na+ + H2O\
-Methanol-oxidized\
-product(s) H2 +\
-CH3O\
-Fe\
-H\
-Fe ion\
-CH3O\
-Fe\
-h\uc0\u957 \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 5 \
-H2. When visible light (385\'96740 nm, 100 mW) was used instead of UV light, a small \
-amount of H2 was detected, with TON of 8.1(SD = 0.74) for 3 h in the experiment. Under \
-artificial solar illumination, a small amount of H2 production was also observed with TON \
-= 7.9(SD = 0.63) for 3 h. \
- \
- \
-Fig. 2. Effect of acid and base on TON. \
-TON values of the photo-induced H2 \
-evolution from methanol using FeIIICl3 (0.17 \
-mM) with/without CH3COOH (90 mM), \
-H2SO4 (90 mM), and NaOH (90 mM) under \
-UV light irradiation (250\'96385 nm, 10 mW) \
-for 3 h. Error bars represent the SD \
-calculated from three measurements. \
-Fig. 3. Effect of counteranions on \
-TON. TON values of the photo-induced \
-H2 evolution from methanol using \
-FeIIICl3 (0.017 mM), FeIII(NO3)3 (0.17 \
-mM), and FeIII2(SO4)3 (0.0088 mM) \
-with NaOH (250 mM) under UV light \
-irradiation (250\'96385 nm, 10 mW) for 3 \
-h. Error bars represent the SD calculated \
-from three measurements. \
- \
- \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 6 \
-Fig. 4. Dependence of TONs on FeIII ion concentration, light power, and reaction \
-time. (A) TON values of H2 evolution as a function of FeIIICl3 concentration (0.017\'961.7 \
-mM) in the reaction of FeIIICl3 with methanol in the presence of NaOH (250 mM) under \
-UV light irradiation (250\'96385 nm, 10 mW) for 3 h. (B) TON values of H2 evolution a \
-function of light power (250\'96385 nm, 10\'9630 mW) in the reaction of FeIIICl3 (0.017 mM) \
-with methanol in the presence of NaOH (250 mM) under UV light irradiation (250\'96385 \
-nm, 10\'9630 mW) for 3 h. (C) TON values of H2 evolution a function of time (1\'9620 h) in \
-the reaction of FeIIICl3 (0.017 mM) with methanol in the presence of NaOH (250 mM) \
-under UV light irradiation (250\'96385 nm, 10 mW) for 1\'9620 h. Error bars represent the SD \
-calculated from three measurements. \
- \
-Through the examination of various reaction conditions described above, we \
-achieved the highest TOF (TON/hour) value of 149(SD = 3.62) h\'961\
- (TON of 448(SD \
-=10.9) for 3 h) in our system at present, which was obtained from the photo-induced \
-methanol dehydrogenation reaction using FeIIICl3 (0.017 mM) in methanol with NaOH \
-(250 mM) under UV light irradiation (250\'96385 nm, 30 mW) for 3 h. This TOF value is \
-almost comparable to those reported for H2 production from methanol using non-noble \
-metal homogeneous catalysts. For examples, a homogeneous Fe complex, \
-[Fe(H)(HBH3)(CO)\{HN(CH2CH2Pi\
-Pr2)2\}], catalyzed the methanol dehydrogenation in \
-methanol/water (9/1) including 8.0 M potassium hydroxide at 91 \'b0C with a TOF of 644 \
-h\'961\
- (TON of 9834 for 46 h) (22). Another homogeneous Fe complex, \
-[(\
-iPrPNHP)Fe(CO)(H)(HCOO)], catalyzed methanol dehydrogenation from a mixture of \
-methanol/water (4/1, mol/mol) in ethyl acetate as a solvent including lithium \
-tetrafluoroborate under reflux with a TOF of 543 h\'961\
- (TON of 51,000 for 94 h) (23). A \
-Mn complex with excess HN(CH2CH2PiPr2)2 ligand can function as a stable \
-dehydrogenation catalyst in methanol/water (9/1) including 8.0 M potassium hydroxide, \
-reaching a TON of more than 20,000 over one month at 92 \'b0C (TOF of ca. 28 h\'961\
- at 90 \'b0C) \
-(24). Additionally, an Fe complex with a o-aminophenolato ligand also functions as a \
-dehydrogenation catalyst under light irradiation (25). Our system is fundamentally \
-distinct from these organometallic systems, representing the first example of H2 \
-generation from alcohol using only a metal ion to the best of our knowledge. Despite the \
-simplest catalytic system in the homogenous systems, the TOF achieved is on the same \
-order of magnitude as those reported in previous homogeneous system. However, as \
-discussed below, in our system, the H2 evolution from methanol under conditions where \
-water is present exhibits a TOF that is two orders of magnitude lower than under \
-conditions without water. These results indicate the mechanism for Fe catalysis should be \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 7 \
-substantially different from the previous organometallic systems. The unprecedented \
-photo-driven Fe catalysis system warrants further mechanistic elucidation in future \
-studies. In addition to TOF, the production rate (\'b5mol gcat\'961\
- h\'961\
-) is also recognized as an \
-important parameter in the field of heterogeneous photocatalysis. For our system, the \
-production rate is calculated to be 9.21(SD = 0.223) \'d7 105\
- \'b5mol gcat\'961\
- h\'961\
- (FeCl3 is used \
-for gcat), based on the TOF of 149(SD = 3.62) h\'961\
-. This value is comparable to the rate of \
-6.07 \'d7 105\
- \'b5mol gcat\'961\
- h\'961\
- reported in previous study employing representative highly \
-active heterogeneous photocatalyst, Pt/TiO2\'96x\'96SAP1, in anhydrous methanol solution \
-(30). \
- \
-Application of the Fe Ion System to Other Lower Alcohols, Cellulose, and Related \
-Compounds \
-Our system can be applied to other lower alcohols, such as ethanol, 1-propanol, and \
-2-propanol. H2 generation reactions were observed for all these lower alcohols, and the \
-order of reactivity was methanol, ethanol, 1-propanol, and 2-propanol (Fig. 5). The results \
-suggest steric hinderance of alcohols may affect the dehydrogenation reaction. In addition, \
-this Fe ion catalysis system is indeed applicable in aqueous environments; however, its \
-efficiency diminishes considerably under such conditions. A TON of 5.2(SD = 0.16) for \
-3 h (TOF of 1.7(SD = 0.054) h\'961\
-) was observed in methanol/water (1/4, mol/mol, 9/16, \
-v/v) with FeIIICl3 (0.17 mM) at pH 3.0 under UV light irradiation (250\'96385 nm, 30 mW). \
-Although the TOF value is not high, the production rate of 1.1(SD = 0.034) \'d7 104\
- \'b5mol \
-gcat\'961\
- h\'961\
- is comparable to those reported for representative highly active heterogeneous \
-photocatalysts such as Cu\'96TiO2 and Pt\'96TiO2 in methanol/water solution, namely 1.8 \'d7 \
-104\
- and 1.2 \'d7 104\
- \'b5mol gcat\'961\
- h\'961\
-, respectively (31, 32). \
- \
- \
-Fig. 5. TONs for photocatalytic H2 evolution from lower alcohols. TON values of the \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 8 \
-photo-induced H2 evolution in the reaction of FeIIICl3 (0.017 mM) with methanol, ethanol, \
-1-propanol, and 2-propanol in the presence of NaOH (250 mM) under UV light irradiation \
-(250\'96385 nm, 10 mW) for 3 h. Error bars represent the SD calculated from three \
-measurements. \
- \
-We further extended this system and applied it to biomass and its derived \
-compounds, such as glucose, cellobiose, starch, cellulose, and cedar powder in water. As \
-a result, H2 generation was observed from all of these compounds (Table 1). The TON for \
-the dehydrogenation of cellulose was determined as 0.024(SD = 0.0019), which \
-corresponds to a TOF of 3.3(SD = 0.94) \'d7 10\'963\
- h\'961\
-. This value is much lower than that of \
-homogeneous iridium complex (TON of 60 for 24, TOF of 2.5) (36). Converting the TOF \
-for H2 production from cellulose in our system to the production rate yields a value of \
-0.020(SD = 0.0058) \'b5mol gcat\'961\
- h\'961\
-. This rate is also much lower than those of ca. 4000 \
-and 1320 \'b5mol gcat\'961\
- h\'961\
- reported in previous studies using representative highly active \
-heterogeneous photocatalysts, TiO2/NiOx@Cg and Pt\'96TiO2, respectively (37, 38). \
-Interestingly, analysis of the gas phase after the photocatalytic dehydrogenation \
-reactions of alcohols in water revealed that hydrocarbons were formed together with H2 \
-(Figs. S4 and S5). Methane was produced from the photocatalytic reaction of ethanol and \
-2-propanol in water, while ethane was generated from photocatalytic reaction of 1-\
-propanol in water (Fig. S5). These results suggest that the well-known Norrish type I \
-reaction proceeds through the interaction between the carbonyl group and UV light (39, \
-40) after the dehydrogenation reaction. However, during the photocatalytic reaction of 1-\
-propanol in water, methane and ethylene were produced alongside ethane. The formation \
-mechanism of methane and ethylene from 1-propanol is currently unclear. \
- \
-Table 1. TON and conversion yield for H2 evolution from glucose, cellobiose, starch, \
-cellulose, and ceder powdera\
- \
-entry substrate TON conversion yield \
-1 glucose (2.5 mM) 0.20(SD = 0.033) 14%(SD = 2.3)\
-b\
- \
-2 cellobiose (10 mg) 0.67(SD = 0.061) 5.9%(SD = 0.58)\
-b\
- \
-3 starch (10 mg) 0.61(SD = 0.031) 2.6%(SD = 0.17)\
-b\
- \
-4 cellulose (10 mg) 0.052(SD = 0.015) 0.22%(SD = 0.065)\
-b\
- \
-5 cedar powder (10 mg) 0.024(SD = 0.0019) 0.46%(SD = 0.033)\
-b,c\
- \
-a \
-Reaction conditions are as follows. Catalyst: FeIIICl3 (1.7 mM), solvent: water (1.5 mL, \
-natural pH 2.7), light: 250\'96385 nm (10 mW), reaction time: 16 h, and atmosphere: air. \
-b \
-Conversion yields of glucose, cellobiose, starch, and cellulose are calculated by the \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 9 \
-following equation: (mol H2 evolved)/(mol of monomer unit) \'b4 100%. \
-c \
-Conversion yield \
-is calculated based on ca. 45% of cellulose contained in the cedar powder. SDs were \
-calculated from three measurements. \
- \
-In conclusion, we successfully produced H2 from methanol as well as other \
-alcohols using a remarkably simple catalyst: a free metal ion, the most fundamental unit \
-in metal catalysis. Amidst current trends toward increasingly refined catalyst and reaction \
-designs, our demonstration of effective catalysis by such a basic species holds important \
-implications for both academic research and industrial application. Notably, it was \
-revealed that the catalytic activity for the methanol dehydrogenation is on pair with those \
-of previous homogeneous catalysts and heterogeneous photocatalysts. Given the \
-accessible nature of this catalyst system, its applicability is expected to be broad, \
-extending beyond lower alcohols to include biomass and its derivatives. While the \
-reaction we discovered is unprecedented and its mechanism remains to be fully elucidated, \
-this very simplicity offers new possibilities for exploring metal ion chemistry. \
- \
-Acknowledgements \
-Funding: The authors gratefully acknowledge funding from JST PRESTO Grant Number \
-JPMJPR17S9, Japan and the World Premier International Research Center Initiative \
-(WPI), Japan. \
-Author Contributions: Experiment: M.S. and Y.K. Writing: original draft: T.M. Writing, \
-review & editing: All. \
- \
-Supplementary Materials \
-Materials and Methods; Figs. S1 to S5. \
- \
-References and Notes \
-1. A. Kumar, P. Daw, D. Milstein, Chem. Rev. 122, 385\'96441 (2022). \
-2. M. S. Salman, N. Rambhujun, C. Pratthana, K. Srivastava, K.-F. Aguey-Zinsou, Ind. \
-Eng. Chem. Res. 61, 6067\'966105 (2022). \
-3. K. Sordakis, C. Tang, L. K. Vogt, H. Junge, P. J. Dyson, M. Beller, G. Laurenczy, Chem. \
-Rev. 118, 372\'96433 (2018). \
-4. A. Z\'fcttel, A. Borgschulte, L. Schlapbach, Eds. Hydrogen as a Future Energy Carrier, \
-Wiley-VCH Verlag GmbH & Co, Weinheim (2008). \
-5. G. A. Olah, Angew. Chem. Int. Ed. 52, 104\'96107 (2013). \
-6. G. A. Olah, Angew. Chem. Int. Ed. 44, 2636\'962639 (2005). \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 10 \
-7. E. Alberico, M. Nielsen, Chem. Commun. 51, 6714\'966725 (2015). \
-8. T. A. Smith, R. P. Aplin, P. M. Maitlis, J. Organomet. Chem. 291, c13\'96c14 (1985). \
-9. S. Shinoda, H. Itagaki, Y. Saito, J. Chem. Soc., Chem. Commun. 860\'96861 (1985). \
-10. D. Morton, D. J. Cole-Hamilton, J. Chem. Soc., Chem. Commun. 248\'96249 (1987). \
-11. M. Nielsen, E. Alberico, W. Baumann, H.-J. Drexler, H. Junge, S. Gladiali, M. Beller, \
-Nature 495, 85\'9689 (2013). \
-12. R. E. Rodr\'edguez-Lugo, M. Trincado, M. Vogt, F. Tewes, G. Santiso-Quinones, H. \
-Gr\'fctzmacher, Nat. Chem. 5, 342\'96347 (2013). \
-13. A. Monney, E. Barsch, P. Sponholz, H. Junge, R. Ludwig, M. Beller, Chem. Commun. \
-50, 707\'96709 (2014). \
-14. P. Hu, Y. Diskin-Posner, Y. Ben-David, D. Milstein, ACS Catal. 4, 2649\'962652 (2014). \
-15. J. Campos, L. S. Sharninghausen, M. G. Manas, R. H. Crabtree, Inorg. Chem. 54, \
-5079\'965084 (2015). \
-16. K. Fujita, R. Kawahara, T. Aikawa, R. Yamaguchi, Angew. Chem., Int. Ed. 54, 9057\'96\
-9060 (2015). \
-17. F. F. van de Watering, M. Lutz, W. I. Dzik, B. de Bruin, J. N. H. Reek, ChemCatChem \
-8, 2752\'962756 (2016). \
-18. C. Prichatz, E. Alberico, W. Baumann, H. Junge, M. Beller, ChemCatChem 9, 1891\'96\
-1896 (2017). \
-19. Y.-L. Zhan, Y.-B. Shen, S.-P. Li, B.-H. Yue, X.-C. Zhou, Chin. Chem. Lett. 28, 1353\'96\
-1357 (2017). \
-20. Q. Wang, J. Lan, R. Liang, Y. Xia, L. Qin, L. W. Chung, Z. Zheng, ACS Catal. 12, \
-2212\'962222 (2022). \
-21. W. Qi, N. Wang, L. Qin, P. Yu, Z. Zheng, ACS Catal. 14, 3434\'963445 (2024). \
-22. E. Alberico, P. Sponholz, C. Cordes, M. Nielsen, H.-J. Drexler, W. Baumann, H. Junge, \
-M. Beller, Angew. Chem., Int. Ed. 52, 14162\'9614166 (2013). \
-23. E. A. Bielinski, M. F\'f6rster, Y. Zhang, W. H. Bernskoetter, N. Hazari, M. C. Holthausen, \
-ACS Catal. 5, 2404\'962415 (2015). \
-24. M. And\'e9rez-Fern\'e1ndez, L. K. Vogt, S. Fischer, W. Zhou, H. Jiao, M. Garbe, S. \
-Elangovan, K. Junge, H. Junge, R. Ludwig, M. Beller, Angew. Chem., Int. Ed. 56, 559\'96\
-562 (2017). \
-25. M. Wakizaka, T. Matsumoto, R. Tanaka, H.-C. Chang, Nat. Commun. 7, 12333 (2016). \
-26. A. H. M. Abbas, K. K. Cheralathan, E. Porpatham, S. K. Arumugam, Renew. Sustain. \
-Energy Rev. 191, 114147 (2024) \
-27. A. M. Ranjekar, G. D. Yadav, Ind. Eng. Chem. Res. 60, 89\'96113 (2021) \
-28. B. Hu, R. Shu, H. S. Khairun, Z. Tian, C. Wang, N. K. Gupta, Chem Asian J. 19, \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0\
- 11 \
-e202400217 (2024) \
-29. L. Chang, S.-T. Yong, S.-P. Chai, L. K. Putri, L.-L. Tan, A. R. Mohamed, Mater. Today \
-Chem. 27, 101334 (2023). \
-30. F. Yu, X. Wang, H. Lu, G. Li, B. Liao, H. Wang, C. Duan, Y. Mao, L. Chen, Inorg. \
-Chem. 62, 5700\'965706 (2023) \
-31. Valero, J. M.; Obregon, S.; Colon, G. ACS Catal. 4, 3320\'963329 (2014). \
-32. Y.-H. Chung, K. Han, C.-Y. Lin, D. O\'92Neill, G. Mul, B. Mei, C.-M. Yang, Catal. \
-Today 356, 95\'96100 (2020). \
-33. H. Wang, H. Qi, X. Sun, S. Jia, X. Li, T. J. Miao, L. Xiong, S. Wang, X. Zhang, X. \
-Liu, A. Wang, T. Zhang, W. Huang, J. Tang, Nat. Mater. 22, 619\'96626 (2023). \
-34. S. Xiao, P. Liu, W. Zhu, G. Li, D. Zhang, H. Li, Nano Lett. 15, 4853\'964858 (2015). \
-35. A. J. Bard, R. Parsons, J. Jordan, Eds., \'93Standard Potentials in Aqueous Solution\'94, \
-Marcel Dekker (1985). \
-36. G. Toyooka, T. Tanaka, K. Kitayama, N. Kobayashi, T. Watanabe, K. Fujita, Catal. \
-Sci. Technol. 11, 2273\'962279 (2021). \
-37. L. Zhang, W. Wang, S. Zeng, Y. Sua, H. Hao, Green Chem. 20, 3008\'963013 (2018). \
-38. J. Zou, G. Zhang, X. Xu, Appl. Catal. A Gen. 563, 73\'9679 (2018). \
-39. R. G. W. Norrish, C. H. Bamford, Nature 138, 1016 (1936). \
-40. C. Ganglong, S. Zhigang, F. Weihai, J. Phys. Chem. A 115, 10146\'9610153 (2011). \
- \
-https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0}
+10 June 2025
+Simple Iron Ion Enables Photocatalytic Hydrogen
+Evolution from Methanol
+Masaya Sakurai
+1
+, Yudai Kawasaki1
+, Takahiro Matsumoto
+1
+1. Kyushu University
+Abstract
+We report the discovery of a remarkably simple homogeneous catalyst – iron (Fe) ion
+–that conducts hydrogen gas (H2) evolution from methanol under ultraviolet (UV) light
+irradiation. Unlike previously reported homogeneous organometallic catalysts for methanol
+dehydrogenation, our system functions without synthetic ligands and is conceptually distinct
+from general heterogeneous and photoredox catalysts. The Fe ion catalysis achieved a turnover
+frequency (TOF) of 149 h–1 and a production rate of 9.21 × 102 mmol gcat–1 h–1 for methanol
+dehydrogenation with input of UV light (250–385 nm, 30 mW). These values place the Fe
+ion catalyst within the upper performance range of previously reported systems – including
+homogeneous, heterogeneous, and photoredox catalysts comprising both precious and nonprecious metals. The Fe catalytic system is not limited to lower alcohols; it can also be
+applied to biomass and its derivatives. This simple and effective catalytic system, discovered
+serendipitously, has no documented analogs, to the best of our knowledge.
+Keywords
+hydrogen production, methanol, iron, photo
+Posted on 10 June 2025 — CC-BY-NC-ND 4.0 — This is a preprint and has not been peer reviewed. Data may be preliminary. —
+https://doi.org/10.26434/chemrxiv-2025-zdjxg
+ 1 
+Simple Iron Ion Enables Photocatalytic Hydrogen Evolution 
+from Methanol 
+ 
+Masaya Sakurai,1,† Yudai Kawasaki,1,† Takahiro Matsumoto1,2,* 
+ 
+1
+Department of Chemistry and Biochemistry, Graduate School of Engineering, Kyushu 
+University, 744 Moto-oka, Nishi-ku, Fukuoka 819-0395, Japan 
+2
+International Institute for Carbon-Neutral Energy Research (WPI-I2CNER), Kyushu 
+University, 744 Moto-oka, Nishi-ku, Fukuoka 819-0395, Japan 
+†
+Equal contribution. 
+ 
+E-mail: matsumoto.takahiro.236@m.kyushu-u.ac.jp 
+ 
+We report the discovery of a remarkably simple homogeneous catalyst – iron (Fe) ion –
+that conducts hydrogen gas (H2) evolution from methanol under ultraviolet (UV) light 
+irradiation. Unlike previously reported homogeneous organometallic catalysts for 
+methanol dehydrogenation, our system functions without synthetic ligands and is 
+conceptually distinct from general heterogeneous and photoredox catalysts. The Fe ion 
+catalysis achieved a turnover frequency (TOF) of 149 h–1
+ and a production rate of 9.21 × 
+105
+ µmol gcat–1
+ h–1
+ for methanol dehydrogenation with input of UV light (250–385 nm, 
+30 mW). These values place the Fe ion catalyst within the upper performance range of 
+previously reported systems – including homogeneous, heterogeneous, and photoredox 
+catalysts comprising both precious and non-precious metals. The Fe catalytic system is 
+not limited to lower alcohols; it can also be applied to biomass and its derivatives. This 
+simple and effective catalytic system, discovered serendipitously, has no documented 
+analogs, to the best of our knowledge. 
+ 
+ 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 2 
+H2 production from alcohols represents a pivotal reaction for achieving carbon-neutral 
+and sustainable societies, as both H2 and alcohols exhibit strong synergy with renewable 
+energy and resources (1–7). Furthermore, the interrelationship between H2 and alcohols 
+is particularly important in hydrogen carrier technologies. Notably, methanol, with a 
+hydrogen content of 12.5 wt%, is widely regarded as a promising liquid hydrogen carrier. 
+Against this backdrop, the dehydrogenation of methanol as well as other alcohols has 
+attracted considerable attention. Recent research has focused particularly on the methanol 
+dehydrogenation using homogeneous catalysts (8–25), heterogeneous catalysts (26–28), 
+and photocatalysts (29–34). The homogeneous catalysis employed synthetic 
+organometallic complexes based on noble metals (rhodium, iridium, and ruthenium) (8–
+21) and non-noble metals (Fe and manganese (Mn)) (22–25). As substantially different 
+from previous organometallic reactions, the reaction we discovered allows H2 to be 
+generated from alcohols using an exceptionally simple catalyst, Fe ion, by input of light 
+energy (Scheme 1). We stumbled upon this reaction not by design, but through a stroke 
+of serendipity. This reaction was found during a control experiment as part of our 
+investigation into H₂ evolution from methanol using organometallic Fe complexes. The 
+input of light energy should be required to drive the thermodynamically endothermic 
+nature of alcohol dehydrogenation. For instance, as the redox potential of methanol 
+(HCHO + 2H+ + 2e–
+ ⇄ CH3OH) is 0.232 V versus normal hydrogen electrode (35), the 
+conversion of methanol to formaldehyde must need external energy. 
+ 
+Scheme 1. H2 evolution from alcohols using an FeIII ion as a catalyst under UV light 
+irradiation in this study (R1
+ and R2
+ groups are alkyl group and/or H). 
+ 
+ 
+Photocatalytic Hydrogen Evolution from Methanol Using an Fe Ion 
+We examined the ultraviolet-visible (UV-vis) spectrum of iron(III) chloride 
+(FeIIICl₃) in methanol, as the dehydrogenation reaction necessitated UV light irradiation. 
+The UV-vis spectrum of FeIIICl3 in methanol indicates a strong absorption band at 368 
+nm (e = 3600 M–1
+ cm–1
+), whose band is blue-shifted to a broad band around 305 nm (e = 
+5100 M–1
+ cm–1
+) on addition of sodium hydroxide (NaOH) (Fig. S1). As described below, 
+NaOH is needed to accelerate the dehydrogenation from methanol. These absorption 
+bands in the UV region should be assigned to ligand-to-metal charge transfer (LMCT) of 
+methanol or methoxide to an FeIII center based on the knowledge of coordination 
+R1 R2
+OH
+UV light
+FeIII ion
+Alcohol-oxidized
+product(s) H2 +
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 3 
+chemistry. This blue-shift and increase in absorption coefficient observed upon addition 
+of NaOH can be attributed to the stronger FeIII–O bond in the methoxide-coordinated FeIII 
+species (FeIII–OCH₃ species) compared to that in the methanol-coordinated FeIII species 
+(FeIII–O(H)CH₃ species). The LMCT can be used for the excitation of methanol- or 
+methoxide-coordinated FeIII species. This process should induce electron transfer from 
+methanol or methoxide to the FeIII center, likely resulting in the formation of an FeII 
+species in which a methanol radical or methoxide radical might be weakly interacting 
+with the FeII center. This LMCT is considered to be involved in the photocatalytic H₂ 
+evolution from methanol, as UV light is required for this reaction. However, the H2 
+production mechanism remains to be elucidated due to the lack of prior studies. 
+We indeed examined H2 evolution from methanol catalyzed by FeIIICl3 under UV 
+light irradiation. FeIIICl3 was dissolved in methanol and the resulting solution was 
+exposed to UV light (250–385 nm, 10–30 mW) in a closed quartz cell capped with a 
+septum. The gas phase was analyzed by gas chromatography (GC) after the photoreaction. 
+As a result, H2 was detected from this remarkably simple system (Fig. S2). Surprisingly, 
+in this system, the H2 evolution occurred even under air, in which the catalytic activity is 
+comparable to that under an N2 atmosphere. While a small amount of H2 evolved without 
+NaOH, the amount of H2 evolved was significantly increased on addition of NaOH into 
+the system. As the concentration of NaOH increased, the turnover number (TON, mol of 
+H2/mol of FeIII ion) of H2 evolution increased. To investigate the effect of NaOH on the 
+photocatalytic reaction, we examined the H2 production reaction under varying 
+concentrations of NaOH and plotted the resulting TON values (Fig. 1A). This plot reveals 
+a saturation curve, analyzed using the steady-state approximation as in the MichaelisMenten kinetics model. Furthermore, the double reciprocal plot displays a linear 
+correlation (Fig. 1B). This type of kinetics indicates that a pre-equilibrium is involved in 
+the reaction. In this case, there should be the pre-equilibrium between the deprotonation 
+of methanol and protonation of methoxide coordinated to the Fe center (Scheme 2). From 
+the intercept and slope of the double reciprocal plot, the equilibrium (K) and rate constants 
+(k) were determined as K = 21 and k = 6.9 × 10–3
+ s–1
+, respectively. 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 4 
+ 
+Fig. 1. Kinetic analysis using the steady-state approximation. (A) TON values 
+depending on concentration of NaOH (0–900 mM) in the photo-induced H2 evolution 
+reaction using FeIIICl3 (0.17 mM) in methanol with NaOH (0–900 mM) under UV light 
+irradiation (250–385 nm, 10 mW) for 3 h. (B) Double reciprocal plot of (A). Solid lines 
+in (A) and (B) are fitted by Michaelis–Menten kinetics. Error bars represent the standard 
+deviation (SD) calculated from three measurements. 
+ 
+Scheme 2. A possible mechanism predicted from kinetic analysis using the steady-state 
+approximation 
+ 
+ 
+Investigation of Photocatalytic Reaction Conditions 
+In the case of addition of acids such as sulfuric acid (H2SO4) and acetic acid 
+(CH3COOH), there is no significant effect on H2 evolution reaction (Fig. 2). We also 
+investigated the effect of changing the counteranions, NO3
+–
+ and SO4
+2–
+, in FeIII salts, and 
+no significant influence on the H2 evolution reaction was observed (Fig. 3). Then, in order 
+to optimize the conditions for the H2 evolution reaction, we varied the concentration of 
+FeIIICl3, the light intensity, and the reaction time (Fig. 4). The reaction tends to proceed 
+more facilely when the concentration of FeIII ion is reduced (Fig. 4A). As is commonly 
+observed in photochemical reactions, increasing the concentration of photocatalysts often 
+leads to a decrease in reactivity. The TON increases with higher UV light intensity (Fig. 
+4B). From the time-dependent TON data, it was observed that the TON increases linearly 
+up to 10–15 h, after which the slope tends to decrease (Fig. 4C). This is likely due to the 
+increase in internal pressure caused by the H2 generated under the closed system. Control 
+experiments without FeIII ion or UV light (250–385 nm) did not result in the formation of 
+NaOH Na+ + H2O
+NaOH Na+ + H2O
+Methanol-oxidized
+product(s) H2 +
+CH3O
+Fe
+H
+Fe ion
+CH3O
+Fe
+hν
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 5 
+H2. When visible light (385–740 nm, 100 mW) was used instead of UV light, a small 
+amount of H2 was detected, with TON of 8.1(SD = 0.74) for 3 h in the experiment. Under 
+artificial solar illumination, a small amount of H2 production was also observed with TON 
+= 7.9(SD = 0.63) for 3 h. 
+ 
+ 
+Fig. 2. Effect of acid and base on TON. 
+TON values of the photo-induced H2 
+evolution from methanol using FeIIICl3 (0.17 
+mM) with/without CH3COOH (90 mM), 
+H2SO4 (90 mM), and NaOH (90 mM) under 
+UV light irradiation (250–385 nm, 10 mW) 
+for 3 h. Error bars represent the SD 
+calculated from three measurements. 
+Fig. 3. Effect of counteranions on 
+TON. TON values of the photo-induced 
+H2 evolution from methanol using 
+FeIIICl3 (0.017 mM), FeIII(NO3)3 (0.17 
+mM), and FeIII2(SO4)3 (0.0088 mM) 
+with NaOH (250 mM) under UV light 
+irradiation (250–385 nm, 10 mW) for 3 
+h. Error bars represent the SD calculated 
+from three measurements. 
+ 
+ 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 6 
+Fig. 4. Dependence of TONs on FeIII ion concentration, light power, and reaction 
+time. (A) TON values of H2 evolution as a function of FeIIICl3 concentration (0.017–1.7 
+mM) in the reaction of FeIIICl3 with methanol in the presence of NaOH (250 mM) under 
+UV light irradiation (250–385 nm, 10 mW) for 3 h. (B) TON values of H2 evolution a 
+function of light power (250–385 nm, 10–30 mW) in the reaction of FeIIICl3 (0.017 mM) 
+with methanol in the presence of NaOH (250 mM) under UV light irradiation (250–385 
+nm, 10–30 mW) for 3 h. (C) TON values of H2 evolution a function of time (1–20 h) in 
+the reaction of FeIIICl3 (0.017 mM) with methanol in the presence of NaOH (250 mM) 
+under UV light irradiation (250–385 nm, 10 mW) for 1–20 h. Error bars represent the SD 
+calculated from three measurements. 
+ 
+Through the examination of various reaction conditions described above, we 
+achieved the highest TOF (TON/hour) value of 149(SD = 3.62) h–1
+ (TON of 448(SD 
+=10.9) for 3 h) in our system at present, which was obtained from the photo-induced 
+methanol dehydrogenation reaction using FeIIICl3 (0.017 mM) in methanol with NaOH 
+(250 mM) under UV light irradiation (250–385 nm, 30 mW) for 3 h. This TOF value is 
+almost comparable to those reported for H2 production from methanol using non-noble 
+metal homogeneous catalysts. For examples, a homogeneous Fe complex, 
+[Fe(H)(HBH3)(CO){HN(CH2CH2Pi
+Pr2)2}], catalyzed the methanol dehydrogenation in 
+methanol/water (9/1) including 8.0 M potassium hydroxide at 91 °C with a TOF of 644 
+h–1
+ (TON of 9834 for 46 h) (22). Another homogeneous Fe complex, 
+[(
+iPrPNHP)Fe(CO)(H)(HCOO)], catalyzed methanol dehydrogenation from a mixture of 
+methanol/water (4/1, mol/mol) in ethyl acetate as a solvent including lithium 
+tetrafluoroborate under reflux with a TOF of 543 h–1
+ (TON of 51,000 for 94 h) (23). A 
+Mn complex with excess HN(CH2CH2PiPr2)2 ligand can function as a stable 
+dehydrogenation catalyst in methanol/water (9/1) including 8.0 M potassium hydroxide, 
+reaching a TON of more than 20,000 over one month at 92 °C (TOF of ca. 28 h–1
+ at 90 °C) 
+(24). Additionally, an Fe complex with a o-aminophenolato ligand also functions as a 
+dehydrogenation catalyst under light irradiation (25). Our system is fundamentally 
+distinct from these organometallic systems, representing the first example of H2 
+generation from alcohol using only a metal ion to the best of our knowledge. Despite the 
+simplest catalytic system in the homogenous systems, the TOF achieved is on the same 
+order of magnitude as those reported in previous homogeneous system. However, as 
+discussed below, in our system, the H2 evolution from methanol under conditions where 
+water is present exhibits a TOF that is two orders of magnitude lower than under 
+conditions without water. These results indicate the mechanism for Fe catalysis should be 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 7 
+substantially different from the previous organometallic systems. The unprecedented 
+photo-driven Fe catalysis system warrants further mechanistic elucidation in future 
+studies. In addition to TOF, the production rate (µmol gcat–1
+ h–1
+) is also recognized as an 
+important parameter in the field of heterogeneous photocatalysis. For our system, the 
+production rate is calculated to be 9.21(SD = 0.223) × 105
+ µmol gcat–1
+ h–1
+ (FeCl3 is used 
+for gcat), based on the TOF of 149(SD = 3.62) h–1
+. This value is comparable to the rate of 
+6.07 × 105
+ µmol gcat–1
+ h–1
+ reported in previous study employing representative highly 
+active heterogeneous photocatalyst, Pt/TiO2–x–SAP1, in anhydrous methanol solution 
+(30). 
+ 
+Application of the Fe Ion System to Other Lower Alcohols, Cellulose, and Related 
+Compounds 
+Our system can be applied to other lower alcohols, such as ethanol, 1-propanol, and 
+2-propanol. H2 generation reactions were observed for all these lower alcohols, and the 
+order of reactivity was methanol, ethanol, 1-propanol, and 2-propanol (Fig. 5). The results 
+suggest steric hinderance of alcohols may affect the dehydrogenation reaction. In addition, 
+this Fe ion catalysis system is indeed applicable in aqueous environments; however, its 
+efficiency diminishes considerably under such conditions. A TON of 5.2(SD = 0.16) for 
+3 h (TOF of 1.7(SD = 0.054) h–1
+) was observed in methanol/water (1/4, mol/mol, 9/16, 
+v/v) with FeIIICl3 (0.17 mM) at pH 3.0 under UV light irradiation (250–385 nm, 30 mW). 
+Although the TOF value is not high, the production rate of 1.1(SD = 0.034) × 104
+ µmol 
+gcat–1
+ h–1
+ is comparable to those reported for representative highly active heterogeneous 
+photocatalysts such as Cu–TiO2 and Pt–TiO2 in methanol/water solution, namely 1.8 × 
+104
+ and 1.2 × 104
+ µmol gcat–1
+ h–1
+, respectively (31, 32). 
+ 
+ 
+Fig. 5. TONs for photocatalytic H2 evolution from lower alcohols. TON values of the 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 8 
+photo-induced H2 evolution in the reaction of FeIIICl3 (0.017 mM) with methanol, ethanol, 
+1-propanol, and 2-propanol in the presence of NaOH (250 mM) under UV light irradiation 
+(250–385 nm, 10 mW) for 3 h. Error bars represent the SD calculated from three 
+measurements. 
+ 
+We further extended this system and applied it to biomass and its derived 
+compounds, such as glucose, cellobiose, starch, cellulose, and cedar powder in water. As 
+a result, H2 generation was observed from all of these compounds (Table 1). The TON for 
+the dehydrogenation of cellulose was determined as 0.024(SD = 0.0019), which 
+corresponds to a TOF of 3.3(SD = 0.94) × 10–3
+ h–1
+. This value is much lower than that of 
+homogeneous iridium complex (TON of 60 for 24, TOF of 2.5) (36). Converting the TOF 
+for H2 production from cellulose in our system to the production rate yields a value of 
+0.020(SD = 0.0058) µmol gcat–1
+ h–1
+. This rate is also much lower than those of ca. 4000 
+and 1320 µmol gcat–1
+ h–1
+ reported in previous studies using representative highly active 
+heterogeneous photocatalysts, TiO2/NiOx@Cg and Pt–TiO2, respectively (37, 38). 
+Interestingly, analysis of the gas phase after the photocatalytic dehydrogenation 
+reactions of alcohols in water revealed that hydrocarbons were formed together with H2 
+(Figs. S4 and S5). Methane was produced from the photocatalytic reaction of ethanol and 
+2-propanol in water, while ethane was generated from photocatalytic reaction of 1-
+propanol in water (Fig. S5). These results suggest that the well-known Norrish type I 
+reaction proceeds through the interaction between the carbonyl group and UV light (39, 
+40) after the dehydrogenation reaction. However, during the photocatalytic reaction of 1-
+propanol in water, methane and ethylene were produced alongside ethane. The formation 
+mechanism of methane and ethylene from 1-propanol is currently unclear. 
+ 
+Table 1. TON and conversion yield for H2 evolution from glucose, cellobiose, starch, 
+cellulose, and ceder powdera
+ 
+entry substrate TON conversion yield 
+1 glucose (2.5 mM) 0.20(SD = 0.033) 14%(SD = 2.3)
+b
+ 
+2 cellobiose (10 mg) 0.67(SD = 0.061) 5.9%(SD = 0.58)
+b
+ 
+3 starch (10 mg) 0.61(SD = 0.031) 2.6%(SD = 0.17)
+b
+ 
+4 cellulose (10 mg) 0.052(SD = 0.015) 0.22%(SD = 0.065)
+b
+ 
+5 cedar powder (10 mg) 0.024(SD = 0.0019) 0.46%(SD = 0.033)
+b,c
+ 
+a 
+Reaction conditions are as follows. Catalyst: FeIIICl3 (1.7 mM), solvent: water (1.5 mL, 
+natural pH 2.7), light: 250–385 nm (10 mW), reaction time: 16 h, and atmosphere: air. 
+b 
+Conversion yields of glucose, cellobiose, starch, and cellulose are calculated by the 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 9 
+following equation: (mol H2 evolved)/(mol of monomer unit) ´ 100%. 
+c 
+Conversion yield 
+is calculated based on ca. 45% of cellulose contained in the cedar powder. SDs were 
+calculated from three measurements. 
+ 
+In conclusion, we successfully produced H2 from methanol as well as other 
+alcohols using a remarkably simple catalyst: a free metal ion, the most fundamental unit 
+in metal catalysis. Amidst current trends toward increasingly refined catalyst and reaction 
+designs, our demonstration of effective catalysis by such a basic species holds important 
+implications for both academic research and industrial application. Notably, it was 
+revealed that the catalytic activity for the methanol dehydrogenation is on pair with those 
+of previous homogeneous catalysts and heterogeneous photocatalysts. Given the 
+accessible nature of this catalyst system, its applicability is expected to be broad, 
+extending beyond lower alcohols to include biomass and its derivatives. While the 
+reaction we discovered is unprecedented and its mechanism remains to be fully elucidated, 
+this very simplicity offers new possibilities for exploring metal ion chemistry. 
+ 
+Acknowledgements 
+Funding: The authors gratefully acknowledge funding from JST PRESTO Grant Number 
+JPMJPR17S9, Japan and the World Premier International Research Center Initiative 
+(WPI), Japan. 
+Author Contributions: Experiment: M.S. and Y.K. Writing: original draft: T.M. Writing, 
+review & editing: All. 
+ 
+Supplementary Materials 
+Materials and Methods; Figs. S1 to S5. 
+ 
+References and Notes 
+1. A. Kumar, P. Daw, D. Milstein, Chem. Rev. 122, 385–441 (2022). 
+2. M. S. Salman, N. Rambhujun, C. Pratthana, K. Srivastava, K.-F. Aguey-Zinsou, Ind. 
+Eng. Chem. Res. 61, 6067–6105 (2022). 
+3. K. Sordakis, C. Tang, L. K. Vogt, H. Junge, P. J. Dyson, M. Beller, G. Laurenczy, Chem. 
+Rev. 118, 372–433 (2018). 
+4. A. Züttel, A. Borgschulte, L. Schlapbach, Eds. Hydrogen as a Future Energy Carrier, 
+Wiley-VCH Verlag GmbH & Co, Weinheim (2008). 
+5. G. A. Olah, Angew. Chem. Int. Ed. 52, 104–107 (2013). 
+6. G. A. Olah, Angew. Chem. Int. Ed. 44, 2636–2639 (2005). 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 10 
+7. E. Alberico, M. Nielsen, Chem. Commun. 51, 6714–6725 (2015). 
+8. T. A. Smith, R. P. Aplin, P. M. Maitlis, J. Organomet. Chem. 291, c13–c14 (1985). 
+9. S. Shinoda, H. Itagaki, Y. Saito, J. Chem. Soc., Chem. Commun. 860–861 (1985). 
+10. D. Morton, D. J. Cole-Hamilton, J. Chem. Soc., Chem. Commun. 248–249 (1987). 
+11. M. Nielsen, E. Alberico, W. Baumann, H.-J. Drexler, H. Junge, S. Gladiali, M. Beller, 
+Nature 495, 85–89 (2013). 
+12. R. E. Rodríguez-Lugo, M. Trincado, M. Vogt, F. Tewes, G. Santiso-Quinones, H. 
+Grützmacher, Nat. Chem. 5, 342–347 (2013). 
+13. A. Monney, E. Barsch, P. Sponholz, H. Junge, R. Ludwig, M. Beller, Chem. Commun. 
+50, 707–709 (2014). 
+14. P. Hu, Y. Diskin-Posner, Y. Ben-David, D. Milstein, ACS Catal. 4, 2649–2652 (2014). 
+15. J. Campos, L. S. Sharninghausen, M. G. Manas, R. H. Crabtree, Inorg. Chem. 54, 
+5079–5084 (2015). 
+16. K. Fujita, R. Kawahara, T. Aikawa, R. Yamaguchi, Angew. Chem., Int. Ed. 54, 9057–
+9060 (2015). 
+17. F. F. van de Watering, M. Lutz, W. I. Dzik, B. de Bruin, J. N. H. Reek, ChemCatChem 
+8, 2752–2756 (2016). 
+18. C. Prichatz, E. Alberico, W. Baumann, H. Junge, M. Beller, ChemCatChem 9, 1891–
+1896 (2017). 
+19. Y.-L. Zhan, Y.-B. Shen, S.-P. Li, B.-H. Yue, X.-C. Zhou, Chin. Chem. Lett. 28, 1353–
+1357 (2017). 
+20. Q. Wang, J. Lan, R. Liang, Y. Xia, L. Qin, L. W. Chung, Z. Zheng, ACS Catal. 12, 
+2212–2222 (2022). 
+21. W. Qi, N. Wang, L. Qin, P. Yu, Z. Zheng, ACS Catal. 14, 3434–3445 (2024). 
+22. E. Alberico, P. Sponholz, C. Cordes, M. Nielsen, H.-J. Drexler, W. Baumann, H. Junge, 
+M. Beller, Angew. Chem., Int. Ed. 52, 14162–14166 (2013). 
+23. E. A. Bielinski, M. Förster, Y. Zhang, W. H. Bernskoetter, N. Hazari, M. C. Holthausen, 
+ACS Catal. 5, 2404–2415 (2015). 
+24. M. Andérez-Fernández, L. K. Vogt, S. Fischer, W. Zhou, H. Jiao, M. Garbe, S. 
+Elangovan, K. Junge, H. Junge, R. Ludwig, M. Beller, Angew. Chem., Int. Ed. 56, 559–
+562 (2017). 
+25. M. Wakizaka, T. Matsumoto, R. Tanaka, H.-C. Chang, Nat. Commun. 7, 12333 (2016). 
+26. A. H. M. Abbas, K. K. Cheralathan, E. Porpatham, S. K. Arumugam, Renew. Sustain. 
+Energy Rev. 191, 114147 (2024) 
+27. A. M. Ranjekar, G. D. Yadav, Ind. Eng. Chem. Res. 60, 89–113 (2021) 
+28. B. Hu, R. Shu, H. S. Khairun, Z. Tian, C. Wang, N. K. Gupta, Chem Asian J. 19, 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
+ 11 
+e202400217 (2024) 
+29. L. Chang, S.-T. Yong, S.-P. Chai, L. K. Putri, L.-L. Tan, A. R. Mohamed, Mater. Today 
+Chem. 27, 101334 (2023). 
+30. F. Yu, X. Wang, H. Lu, G. Li, B. Liao, H. Wang, C. Duan, Y. Mao, L. Chen, Inorg. 
+Chem. 62, 5700–5706 (2023) 
+31. Valero, J. M.; Obregon, S.; Colon, G. ACS Catal. 4, 3320–3329 (2014). 
+32. Y.-H. Chung, K. Han, C.-Y. Lin, D. O’Neill, G. Mul, B. Mei, C.-M. Yang, Catal. 
+Today 356, 95–100 (2020). 
+33. H. Wang, H. Qi, X. Sun, S. Jia, X. Li, T. J. Miao, L. Xiong, S. Wang, X. Zhang, X. 
+Liu, A. Wang, T. Zhang, W. Huang, J. Tang, Nat. Mater. 22, 619–626 (2023). 
+34. S. Xiao, P. Liu, W. Zhu, G. Li, D. Zhang, H. Li, Nano Lett. 15, 4853–4858 (2015). 
+35. A. J. Bard, R. Parsons, J. Jordan, Eds., “Standard Potentials in Aqueous Solution”, 
+Marcel Dekker (1985). 
+36. G. Toyooka, T. Tanaka, K. Kitayama, N. Kobayashi, T. Watanabe, K. Fujita, Catal. 
+Sci. Technol. 11, 2273–2279 (2021). 
+37. L. Zhang, W. Wang, S. Zeng, Y. Sua, H. Hao, Green Chem. 20, 3008–3013 (2018). 
+38. J. Zou, G. Zhang, X. Xu, Appl. Catal. A Gen. 563, 73–79 (2018). 
+39. R. G. W. Norrish, C. H. Bamford, Nature 138, 1016 (1936). 
+40. C. Ganglong, S. Zhigang, F. Weihai, J. Phys. Chem. A 115, 10146–10153 (2011). 
+ 
+https://doi.org/10.26434/chemrxiv-2025-zdjxg ORCID: https://orcid.org/0000-0002-8985-0006 Content not peer-reviewed by ChemRxiv. License: CC BY-NC-ND 4.0
